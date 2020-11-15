@@ -4,12 +4,7 @@ This is a little js game developed during CSM JS_Hackaton Competition on Nov. 12
 
 Its name is "Only Real Man Can Survive 15 seconds". You can play this game at https://jun521ju.github.io/JS_Hackathon/
 
-Developed by PengLi and ZhijuYang.
+Developed by Peng Li and Zhiju Yang.
 
-
- https://jun521ju.github.io/JS_Hackathon/
- https://jun521ju.github.io/JS_Hackathon/
- https://jun521ju.github.io/JS_Hackathon/
- https://jun521ju.github.io/JS_Hackathon/
- https://jun521ju.github.io/JS_Hackathon/
+## To play, go to:
  https://jun521ju.github.io/JS_Hackathon/
